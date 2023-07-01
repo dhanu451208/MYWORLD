@@ -1,0 +1,25 @@
+body{
+    background-image: url(https://tse2.mm.bing.net/th?id=OIP.AxeaZBsDY76f_glSwwPCCQHaEK&pid=Api&P=0&h=180);
+    background-size: cover;
+    background-position: fixed;
+    
+}
+.head{
+
+}
+.nav{
+    display: flex;
+}
+.insta,.gallery{
+    height: 50px;
+    width: 50px;
+
+}
+
+.greet{
+    color:rgb(51, 149, 229);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+    text-align: center;
+
+}
